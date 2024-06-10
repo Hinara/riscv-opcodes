@@ -8,6 +8,7 @@ priv-instr-table.tex
 inst.rs
 inst.spinalhdl
 inst.sverilog
+inst.vhd
 instr_dict.yaml
 
 __pycache__/
